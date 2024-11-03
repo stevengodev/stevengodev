@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1>About Me! 😎</h1>
+# Hi there 👋
 
 - 🏫: I'm in eighth semester.
 - 🔭: I’m currently studying systems engineering.
